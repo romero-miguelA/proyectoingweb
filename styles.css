@@ -1,0 +1,36 @@
+.Basura img {
+    width: auto;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Header {
+
+    background-color: #fafafa;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+
+.Title {
+    font-size: 20px;
+}
+
+.Header li a {
+    text-decoration: none;
+    color: black;
+}
+
+.ImagenSola img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
